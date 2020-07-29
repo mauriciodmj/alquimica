@@ -1,0 +1,8 @@
+git clone "HTTPS github"
+cd "pasta"
+git add "comandos"
+git add "nome"
+git status
+git commit -m "alteraçoes"
+git push origin master
+git pull
